@@ -133,7 +133,7 @@
 #home #second-option .header {
     text-align: center;
     -webkit-font-smoothing: antialiased;
-    margin-bottom: 50px;
+    margin-bottom: 75px;
 }
 
 #home #second-option .header h3 {
@@ -146,4 +146,41 @@
 
 #home #cta form .form-group .form-control {
     width: 100%;
+}
+
+#home #features {
+    margin-top: 75px;
+}
+
+#footer-white .menu ul li a {
+    text-decoration: none;
+}
+
+.button.button-small {
+    border: 1px solid #23387A;
+}
+
+.button {
+    background: linear-gradient(#23387A, #23387A);
+}
+
+#home #features .feature .info p {
+    width: 100%
+}
+
+#home #features .feature .info h4 {
+    color: #23387A;
+}
+
+.icon-section{
+    margin-bottom: 50px;
+}
+
+.glyphicon {
+    font-size: 30px;
+    color: #23387A;
+}
+
+#home #second-option .feature strong {
+    color: #23387A;
 }
