@@ -1,0 +1,149 @@
+.navbar-brand img {
+	width: 250px;
+}
+
+#home4 #hero, #home #hero,
+#home4 #hero, #home #hero  {
+	background-image: url('../css/img/background.jpg')
+}
+
+#home4 #hero h1.hero-text,
+#home #hero h1.hero-text {
+	text-align: center;
+}
+
+#home4 #hero .sub-text,
+#home #hero .sub-text {
+	text-align: center;
+
+}
+
+ #home #hero .sub-text {
+ 	width: 100%
+ }
+
+.mc_embed_signup {
+	text-align: center;
+}
+
+/*#home4 #hero .sub-text {
+    -webkit-font-smoothing: antialiased;
+
+    margin-top: 25px;
+    font-family: "Lato", "Helvetica Neue", Arial;
+    color: #fff;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+
+}*/
+
+
+/*#home4 #tabs .tabs-wrapper .tab-content .tab-pane .image img {
+	width: 350px;
+	height: 250px;
+}*/
+
+.slide img {
+	width: 500px;
+	height: 250px;
+}
+
+#home #second-option {
+    margin-top: 85px;
+}
+
+#home #second-option .feature {
+    -webkit-font-smoothing: antialiased;
+}
+
+#home #second-option .feature img {
+    max-width: 40px;
+}
+
+#home #second-option .feature p {
+    font-weight: normal;
+    font-size: 14px;
+    color: #797979;
+    margin-top: 10px;
+    line-height: 24px;
+}
+
+#home #second-option .feature {
+    -webkit-font-smoothing: antialiased;
+}
+
+#home #second-option .feature strong {
+    display: block;
+    font-weight: 400;
+    font-size: 17px;
+    color: #354E75;
+    margin-top: 15px;
+}
+
+
+#footer-white {
+    background: #414B5B;
+}
+
+#home #cta {
+    margin-top: 100px;
+    -webkit-font-smoothing: antialiased;
+}
+
+#home #cta .form-wrapper {
+    background: #F7F8FB;
+    border: 1px solid #EAEDF7;
+    border-top-color: rgb(234, 237, 247);
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-radius: 8px;
+        box-shadow: inset rgba(100, 100, 100, 0.25) 0 1px 1px;
+    padding: 20px 30px 30px 30px;
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-right: auto;
+}
+
+#home #cta form {
+    margin-top: 30px;
+}
+
+#home #cta form .form-group {
+    margin-right: 25px;
+}
+
+#home #cta form .form-group .form-control {
+    width: 195px;
+}
+
+#home #cta form .button {
+    margin-left: 25px;
+}
+
+#home #cta {
+	margin-bottom: 75px 
+}
+
+#home #second-option .header {
+    text-align: center;
+    -webkit-font-smoothing: antialiased;
+    margin-bottom: 50px;
+}
+
+#home #second-option .header h3 {
+    font-family: "Lato", "Helvetica Neue", Arial;
+    font-size: 25px;
+    color: #555;
+    line-height: 25px;
+    margin-bottom: 15px;
+}
+
+#home #cta form .form-group .form-control {
+    width: 100%;
+}
