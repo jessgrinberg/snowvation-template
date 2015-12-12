@@ -46,8 +46,8 @@
 }*/
 
 .slide img {
-	width: 500px;
-	height: 250px;
+	width: 774px;
+	height: 374px;
 }
 
 #home #second-option {
@@ -164,6 +164,10 @@
     background: linear-gradient(#23387A, #23387A);
 }
 
+.button:hover {
+    background: linear-gradient(#00AAF4, #23387A);
+}
+
 #home #features .feature .info p {
     width: 100%
 }
@@ -183,4 +187,8 @@
 
 #home #second-option .feature strong {
     color: #23387A;
+}
+
+#home #slider {
+    margin-top: 0px;
 }
