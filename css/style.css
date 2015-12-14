@@ -54,12 +54,10 @@
     margin-top: 85px;
 }
 
-#home #second-option .feature {
-    -webkit-font-smoothing: antialiased;
-}
 
 #home #second-option .feature img {
     max-width: 40px;
+
 }
 
 #home #second-option .feature p {
@@ -68,10 +66,13 @@
     color: #797979;
     margin-top: 10px;
     line-height: 24px;
+    text-align: justify;
+
 }
 
 #home #second-option .feature {
     -webkit-font-smoothing: antialiased;
+
 }
 
 #home #second-option .feature strong {
@@ -80,6 +81,7 @@
     font-size: 17px;
     color: #354E75;
     margin-top: 15px;
+/*    text-align: center;*/
 }
 
 
@@ -177,7 +179,7 @@
 }
 
 .icon-section{
-    margin-bottom: 50px;
+    margin-bottom: 10px;
 }
 
 .glyphicon {
@@ -187,6 +189,7 @@
 
 #home #second-option .feature strong {
     color: #23387A;
+
 }
 
 #home #slider {
@@ -221,6 +224,8 @@
 
 #home #second-option .feature {
     margin-bottom: 60px;
+    text-align: center;
+
 }
 
 #home #features .divider{
@@ -238,3 +243,4 @@
 .button-outline {
     padding: 12px 20px;
 }
+
